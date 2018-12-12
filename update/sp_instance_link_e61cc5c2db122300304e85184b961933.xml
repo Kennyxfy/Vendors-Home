@@ -22,15 +22,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-12-12 01:37:47</sys_created_on>
         <sys_id>e61cc5c2db122300304e85184b961933</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>部件质量协同、</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>部件质量协同</sys_name>
         <sys_package display_value="Vendors" source="x_162342_vendors">bd0bcd42db122300304e85184b96196c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Vendors">bd0bcd42db122300304e85184b96196c</sys_scope>
         <sys_update_name>sp_instance_link_e61cc5c2db122300304e85184b961933</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-12 02:27:46</sys_updated_on>
-        <title>部件质量协同、</title>
+        <sys_updated_on>2018-12-12 04:03:20</sys_updated_on>
+        <title>部件质量协同</title>
         <type>sc_category</type>
         <url/>
         <widget_parameters><![CDATA[{
